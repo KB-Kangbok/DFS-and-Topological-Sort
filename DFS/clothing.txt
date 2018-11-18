@@ -1,0 +1,20 @@
+9
+undershorts
+pants
+belt
+shirt
+watch
+tie
+jacket
+socks
+shoes
+9
+undershorts pants
+socks shoes
+pants shoes
+pants belt
+shirt belt
+shirt tie
+tie jacket
+belt jacket
+undershorts shoes
